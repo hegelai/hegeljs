@@ -1,6 +1,6 @@
 {
   "name": "@hegel-ai/hegeljs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A client library for Hegel AI",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/hegelai/hegeljs.git"
   },
   "author": "Hegel AI",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/hegelai/hegeljs/issues"
   },
