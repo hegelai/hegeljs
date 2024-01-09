@@ -5,6 +5,8 @@ Welcome to [HegelJS](https://www.npmjs.com/package/@hegel-ai/hegeljs)! The offic
 [Hegel AI]((https://hegel-ai.com)) enables developers to build, monitor, and improve their LLM applications. It tracks every
 request, provides and editor for prompts, and automatically generates improvements based on real-time feedback and evaluations. You can sign up [here](https://app.hegel-ai.com).
 
+![image](img/platform.png)
+
 ## Adding HegelJS to an existing Node.js app
 
 Just install the package with `npm i @hegel-ai/hegeljs` and make the following change to your OpenAI client initialization:
