@@ -13,4 +13,6 @@ Just install the package with `npm i @hegel-ai/hegeljs` and make the following c
 
 ![image](img/commit.png)
 
-To run the library, you'll need to have your `HEGELAI_API_KEY` set. If you need a Hegel AI API key, you can sign up [here](https://app.hegel-ai.com).
+Before starting your app, you'll need to have your `HEGELAI_API_KEY` set. You can do this by running `export HEGELAI_API_KEY=<YOUR_API_KEY>`. You'll need your `OPENAI_API_KEY` set as well, which you can set similarly.
+
+If you need a Hegel AI API key, you can sign up [here](https://app.hegel-ai.com).
